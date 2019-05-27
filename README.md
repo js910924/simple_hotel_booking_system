@@ -1,6 +1,6 @@
 # Booking System - C++
 
-This implementation is for learning OOP concept and C++ programming skill.
+This implementation is for learning OOP and C++ programming skill.
 
 ## Screenshot
 main menu, read room information from file RooomData.txt
