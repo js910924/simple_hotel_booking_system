@@ -19,7 +19,7 @@ public:
 	void BookHotel(AbstractHotel* hotel, Room* room);
 	
 private:
-	int _bonus;
+	int _bonus = 0;
 	vector<AbstractHotel*> _hotels;
 	vector<Payment*> _payments;
 	void LoadHotelAndRoomData(string fileName);
